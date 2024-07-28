@@ -73,4 +73,4 @@ Game Save Manager 是一个用于管理游戏存档的 Python 脚本。它允许
 
 ## 许可证
 
-本项目基于 MIT 许可证开源。详情请参阅 LICENSE 文件。
+本项目基于 MIT 许可证开源。
